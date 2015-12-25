@@ -1,0 +1,15 @@
+NOT dq -> dr
+kg OR kf -> kh
+ep OR eo -> eq
+44430 -> b
+NOT gs -> gt
+dd OR do -> dp
+eg AND ei -> ej
+y AND ae -> ag
+jx AND jz -> ka
+lf RSHIFT 2 -> lg
+z AND aa -> ac
+dy AND ej -> el
+bj OR bi -> bk
+kk RSHIFT 3 -> km
+NOT cn -> co
