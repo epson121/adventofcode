@@ -7,11 +7,6 @@ def get_triplet(str)
     if str =~ /(.)\1\1/
         return $1
     end
-    # 0.upto(str.length-3) do |idx|
-    #     if str[idx] == str[idx+1] and str[idx] == str[idx+2]
-    #         return str[idx]
-    #     end
-    # end
     nil
 end
 
