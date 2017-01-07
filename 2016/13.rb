@@ -1,4 +1,6 @@
 
+require 'thread'
+
 def is_wall?(x, y)
     sum = x*x + 3*x + 2*x*y + y + y*y + 1352
     ones = sum.to_s(2).count("1")
