@@ -1,4 +1,4 @@
-file <- read.table("02.txt", header=FALSE);
+file <- read.table("04.txt", header=FALSE);
 
 #first
 minRow <- apply(file, 1, FUN=min)

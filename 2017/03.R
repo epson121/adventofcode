@@ -10,7 +10,7 @@ steps <- 100000
 
 vals <- c(1, 1, 2, 4, 5, 10, 11, 23, 25)
 
-size = 31
+size = 13
 
 mat <- matrix(0, nrow = size, ncol = size)
 
@@ -102,5 +102,5 @@ for (i in 10:100) {
 	}
 
 }
-
 print(mat)
+plot(mat)
